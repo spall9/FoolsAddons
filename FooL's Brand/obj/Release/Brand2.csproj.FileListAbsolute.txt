@@ -1,0 +1,13 @@
+C:\Users\Adam I\Desktop\Learning C\Brand2\Brand2\bin\Release\Brand2.exe.config
+C:\Users\Adam I\Desktop\Learning C\Brand2\Brand2\bin\Release\Brand2.exe
+C:\Users\Adam I\Desktop\Learning C\Brand2\Brand2\bin\Release\Brand2.pdb
+C:\Users\Adam I\Desktop\Learning C\Brand2\Brand2\bin\Release\EloBuddy.dll
+C:\Users\Adam I\Desktop\Learning C\Brand2\Brand2\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\Adam I\Desktop\Learning C\Brand2\Brand2\bin\Release\EloBuddy.SDK.dll
+C:\Users\Adam I\Desktop\Learning C\Brand2\Brand2\bin\Release\Newtonsoft.Json.dll
+C:\Users\Adam I\Desktop\Learning C\Brand2\Brand2\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Adam I\Desktop\Learning C\Brand2\Brand2\bin\Release\SharpDX.dll
+C:\Users\Adam I\Desktop\Learning C\Brand2\Brand2\bin\Release\SharpDX.XInput.dll
+C:\Users\Adam I\Desktop\Learning C\Brand2\Brand2\obj\Release\Brand2.csprojResolveAssemblyReference.cache
+C:\Users\Adam I\Desktop\Learning C\Brand2\Brand2\obj\Release\Brand2.exe
+C:\Users\Adam I\Desktop\Learning C\Brand2\Brand2\obj\Release\Brand2.pdb

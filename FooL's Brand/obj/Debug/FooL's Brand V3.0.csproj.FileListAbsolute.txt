@@ -1,0 +1,13 @@
+C:\Users\Adam I\Desktop\Learning C\Brand2\Brand2\bin\Debug\Brand2.exe.config
+C:\Users\Adam I\Desktop\Learning C\Brand2\Brand2\obj\Debug\Brand2.exe
+C:\Users\Adam I\Desktop\Learning C\Brand2\Brand2\obj\Debug\Brand2.pdb
+C:\Users\Adam I\Desktop\Learning C\Brand2\Brand2\bin\Debug\Brand2.exe
+C:\Users\Adam I\Desktop\Learning C\Brand2\Brand2\bin\Debug\Brand2.pdb
+C:\Users\Adam I\Desktop\Learning C\Brand2\Brand2\bin\Debug\EloBuddy.dll
+C:\Users\Adam I\Desktop\Learning C\Brand2\Brand2\bin\Debug\EloBuddy.Sandbox.dll
+C:\Users\Adam I\Desktop\Learning C\Brand2\Brand2\bin\Debug\EloBuddy.SDK.dll
+C:\Users\Adam I\Desktop\Learning C\Brand2\Brand2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Adam I\Desktop\Learning C\Brand2\Brand2\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Adam I\Desktop\Learning C\Brand2\Brand2\bin\Debug\SharpDX.dll
+C:\Users\Adam I\Desktop\Learning C\Brand2\Brand2\bin\Debug\SharpDX.XInput.dll
+C:\Users\Adam I\Desktop\Learning C\Brand2\Brand2\obj\Debug\FooL's Brand V3.0.csprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\Adam I\Desktop\Learning C\Annie V2\obj\Debug\FooL's Annie.csprojResolveAssemblyReference.cache
+C:\Users\Adam I\Desktop\Learning C\Annie V2\bin\Debug\firstScript.exe.config
+C:\Users\Adam I\Desktop\Learning C\FooL's Annie\Annie V2\bin\Debug\firstScript.exe.config
+C:\Users\Adam I\Desktop\Learning C\FooL's Annie\Annie V2\bin\Debug\firstScript.exe
+C:\Users\Adam I\Desktop\Learning C\FooL's Annie\Annie V2\bin\Debug\firstScript.pdb
+C:\Users\Adam I\Desktop\Learning C\FooL's Annie\Annie V2\bin\Debug\EloBuddy.dll
+C:\Users\Adam I\Desktop\Learning C\FooL's Annie\Annie V2\bin\Debug\EloBuddy.Sandbox.dll
+C:\Users\Adam I\Desktop\Learning C\FooL's Annie\Annie V2\bin\Debug\EloBuddy.SDK.dll
+C:\Users\Adam I\Desktop\Learning C\FooL's Annie\Annie V2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Adam I\Desktop\Learning C\FooL's Annie\Annie V2\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Adam I\Desktop\Learning C\FooL's Annie\Annie V2\bin\Debug\SharpDX.dll
+C:\Users\Adam I\Desktop\Learning C\FooL's Annie\Annie V2\bin\Debug\SharpDX.XInput.dll
+C:\Users\Adam I\Desktop\Learning C\FooL's Annie\Annie V2\obj\Debug\FooL's Annie.csprojResolveAssemblyReference.cache
+C:\Users\Adam I\Desktop\Learning C\FooL's Annie\Annie V2\obj\Debug\firstScript.exe
+C:\Users\Adam I\Desktop\Learning C\FooL's Annie\Annie V2\obj\Debug\firstScript.pdb
