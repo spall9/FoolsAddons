@@ -83,7 +83,7 @@ namespace Brand2
 
                 if (R.IsReady() && CheckR)
                 {
-                    if (selectedTarget.CountEnemiesInRange(400) >= CheckREnemies && selectedTarget.HealthPercent < 95)
+                    if (selectedTarget.CountEnemiesInRange(400) >= CheckREnemies && selectedTarget.HealthPercent < 75)
                     {
                         R.Cast(selectedTarget);
                     }
