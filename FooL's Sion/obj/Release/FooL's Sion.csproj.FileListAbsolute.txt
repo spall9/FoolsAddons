@@ -10,3 +10,4 @@ C:\Users\Adam I\Desktop\Learning C\FooL's Sion\FooL's Sion\bin\Release\SharpDX.d
 C:\Users\Adam I\Desktop\Learning C\FooL's Sion\FooL's Sion\bin\Release\SharpDX.XInput.dll
 C:\Users\Adam I\Desktop\Learning C\FooL's Sion\FooL's Sion\obj\Release\FooL's Sion.exe
 C:\Users\Adam I\Desktop\Learning C\FooL's Sion\FooL's Sion\obj\Release\FooL's Sion.pdb
+C:\Users\Adam I\Desktop\Learning C\FooL's Sion\FooL's Sion\obj\Release\FooL's Sion.csprojResolveAssemblyReference.cache

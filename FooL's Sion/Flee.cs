@@ -32,7 +32,7 @@ namespace FooL_s_Sion
                 }
             }
 
-            /*if (FleeR)
+            if (FleeR)
             {
                 var tempPos = Game.CursorPos;
                 if (tempPos.IsInRange(Player.Instance.Position, R.Range))
@@ -43,8 +43,7 @@ namespace FooL_s_Sion
                 {
                     R.Cast(Player.Instance.Position.Extend(tempPos, 800).To3DWorld());
                 }
-            }*/
-
+            }
         }
-}
+    }
 }

@@ -22,9 +22,11 @@ namespace FooL_s_Sion
             var target = TargetSelector.GetTarget(Spells.Q.Range, DamageType.Magical);
             if ((target == null) || target.IsInvulnerable)
                 return;
+
             eSpell(target);
             qSpell(target);
             wSpell(target);
+            rSpell(target);
 
             if (ComboMenu["Ignite"].Cast<CheckBox>().CurrentValue)
             {
@@ -34,6 +36,15 @@ namespace FooL_s_Sion
                 }
             }
         }
+
+        /*public static void qSpell(AIHeroClient target)
+        {
+            var CheckQ = ComboMenu["Q"].Cast<CheckBox>().CurrentValue;
+            if (target.IsInRange(Player.Instance, Spells.Q.Range) && !Spells.Q.IsOnCooldown && CheckQ)
+            {
+                Spells.Q.Cast(target);
+            }
+        }*/
 
         public static void qSpell(AIHeroClient target)
         {
@@ -56,9 +67,18 @@ namespace FooL_s_Sion
         public static void eSpell(AIHeroClient target)
         {
             var CheckE = ComboMenu["E"].Cast<CheckBox>().CurrentValue;
-            if (target.IsInRange(Player.Instance, Spells.E.Range) && !Spells.W.IsOnCooldown && CheckE)
+            if (target.IsInRange(Player.Instance, Spells.E.Range) && !Spells.E.IsOnCooldown && CheckE)
             {
                 Spells.E.Cast(target);
+            }
+        }
+
+        public static void rSpell(AIHeroClient target)
+        {
+            var CheckR = ComboMenu["R"].Cast<CheckBox>().CurrentValue;
+            if (target.IsInRange(Player.Instance, Spells.R.Range) && !Spells.R.IsOnCooldown && CheckR)
+            {
+                Spells.R.Cast(target);
             }
         }
     }

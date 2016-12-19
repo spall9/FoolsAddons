@@ -34,7 +34,11 @@ namespace FooL_s_Sion
             }
             if (DrawingsMenu["E"].Cast<CheckBox>().CurrentValue && E.IsReady())
             {
-                Circle.Draw(SharpDX.Color.Red, E.Range, Player.Instance);
+                Circle.Draw(SharpDX.Color.Goldenrod, E.Range, Player.Instance);
+            }
+            if (DrawingsMenu["E"].Cast<CheckBox>().CurrentValue && E.IsReady())
+            {
+                Circle.Draw(SharpDX.Color.Goldenrod, 1500, Player.Instance);
             }
         }
     }
