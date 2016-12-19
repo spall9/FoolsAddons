@@ -1,0 +1,13 @@
+C:\Users\Adam I\Desktop\Learning C\FooL's Sion\FooL's Sion\bin\Debug\FooL's Sion.exe.config
+C:\Users\Adam I\Desktop\Learning C\FooL's Sion\FooL's Sion\obj\Debug\FooL's Sion.csprojResolveAssemblyReference.cache
+C:\Users\Adam I\Desktop\Learning C\FooL's Sion\FooL's Sion\bin\Debug\FooL's Sion.exe
+C:\Users\Adam I\Desktop\Learning C\FooL's Sion\FooL's Sion\bin\Debug\FooL's Sion.pdb
+C:\Users\Adam I\Desktop\Learning C\FooL's Sion\FooL's Sion\bin\Debug\EloBuddy.dll
+C:\Users\Adam I\Desktop\Learning C\FooL's Sion\FooL's Sion\bin\Debug\EloBuddy.Sandbox.dll
+C:\Users\Adam I\Desktop\Learning C\FooL's Sion\FooL's Sion\bin\Debug\EloBuddy.SDK.dll
+C:\Users\Adam I\Desktop\Learning C\FooL's Sion\FooL's Sion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Adam I\Desktop\Learning C\FooL's Sion\FooL's Sion\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Adam I\Desktop\Learning C\FooL's Sion\FooL's Sion\bin\Debug\SharpDX.dll
+C:\Users\Adam I\Desktop\Learning C\FooL's Sion\FooL's Sion\bin\Debug\SharpDX.XInput.dll
+C:\Users\Adam I\Desktop\Learning C\FooL's Sion\FooL's Sion\obj\Debug\FooL's Sion.exe
+C:\Users\Adam I\Desktop\Learning C\FooL's Sion\FooL's Sion\obj\Debug\FooL's Sion.pdb
