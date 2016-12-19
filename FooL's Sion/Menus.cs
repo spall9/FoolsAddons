@@ -43,8 +43,10 @@ namespace FooL_s_Sion
             ComboMenu.Add("Q", new CheckBox("Use Q"));
             ComboMenu.Add("W", new CheckBox("Use W"));
             ComboMenu.Add("E", new CheckBox("Use E"));
-            ComboMenu.Add("R", new CheckBox("Use R (!NOT WORKING ATM!)"));
+            ComboMenu.Add("R", new CheckBox("Use R"));
             ComboMenu.Add("Ignite", new CheckBox("Use Ignite"));
+            ComboMenu.AddSeparator(8);
+            ComboMenu.Add("REnemies", new Slider("Number of Enemies to use R", 2, 1, 6));
 
             //Harass Menu
             HarassMenu.AddGroupLabel("Harass Settings");

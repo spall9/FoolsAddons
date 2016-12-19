@@ -19,7 +19,7 @@ namespace FooL_s_Sion
     {
         public static void ComboExecute()
         {
-            var target = TargetSelector.GetTarget(Spells.Q.Range, DamageType.Magical);
+            var target = TargetSelector.GetTarget(Spells.Q.Range, DamageType.Physical);
             if ((target == null) || target.IsInvulnerable)
                 return;
 
@@ -37,15 +37,6 @@ namespace FooL_s_Sion
             }
         }
 
-        /*public static void qSpell(AIHeroClient target)
-        {
-            var CheckQ = ComboMenu["Q"].Cast<CheckBox>().CurrentValue;
-            if (target.IsInRange(Player.Instance, Spells.Q.Range) && !Spells.Q.IsOnCooldown && CheckQ)
-            {
-                Spells.Q.Cast(target);
-            }
-        }*/
-
         public static void qSpell(AIHeroClient target)
         {
             var CheckQ = ComboMenu["Q"].Cast<CheckBox>().CurrentValue;
@@ -54,6 +45,15 @@ namespace FooL_s_Sion
                 Spells.Q.Cast(target);
             }
         }
+
+        /*public static void qSpell(AIHeroClient target)
+        {
+            var CheckQ = ComboMenu["Q"].Cast<CheckBox>().CurrentValue;
+            if (target.IsInRange(Player.Instance, Spells.Q.MaximumRange) && !Spells.Q.IsOnCooldown && CheckQ)
+            {
+                Spells.Q.StartCharging();
+            }
+        }*/
 
         public static void wSpell(AIHeroClient target)
         {
@@ -75,8 +75,9 @@ namespace FooL_s_Sion
 
         public static void rSpell(AIHeroClient target)
         {
-            var CheckR = ComboMenu["R"].Cast<CheckBox>().CurrentValue;
-            if (target.IsInRange(Player.Instance, Spells.R.Range) && !Spells.R.IsOnCooldown && CheckR)
+            var CheckREnemies = ComboMenu["REnemies"].Cast<Slider>().CurrentValue;
+            var CheckR = ComboMenu["R"].Cast<CheckBox>().CurrentValue && Player.CanUseSpell(SpellSlot.R) == SpellState.Ready;
+            if (target.CountEnemiesInRange(500) >= CheckREnemies && target.HealthPercent < 80)
             {
                 Spells.R.Cast(target);
             }

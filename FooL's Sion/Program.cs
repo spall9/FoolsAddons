@@ -40,7 +40,7 @@ namespace FooL_s_Sion
         {
             if (Player.Instance.Hero != Champion.Sion) return;
 
-            Chat.Print("Welcome to FooL's Sion V1.6");
+            Chat.Print("Welcome to FooL's Sion V2");
 
             Game.OnTick += OnTick;
 
